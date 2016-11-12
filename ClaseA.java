@@ -10,5 +10,8 @@ puclic ClaseA(){
  codigo= "";
  
   }
+  public void mensaje(){
+	  system.out.println("hola");
+  }
 
 }
