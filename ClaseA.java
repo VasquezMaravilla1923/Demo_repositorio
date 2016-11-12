@@ -2,12 +2,13 @@ public class claseA{
 
 private int x;
 private int y;
-private int z;
+private String codigo;
   
 puclic ClaseA(){
  x=0;
-  y=0;
-  z=0;
+ y=0;
+ codigo= "";
+ 
   }
 
 }
